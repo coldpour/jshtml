@@ -1,6 +1,6 @@
 {
   "name": "jshtml",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "composable html tag functions",
   "main": "index.js",
   "scripts": {
