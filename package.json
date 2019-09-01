@@ -1,0 +1,39 @@
+{
+  "name": "jshtml",
+  "version": "0.0.1",
+  "description": "composable html tag functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "watch": "nodemon --ext js --exec jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldpour/jshtml.git"
+  },
+  "keywords": [
+    "html",
+    "xml",
+    "tag",
+    "functional",
+    "compose",
+    "composable",
+    "generate",
+    "dom",
+    "xhtml"
+  ],
+  "author": "Mike Holm <coldpour@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coldpour/jshtml/issues"
+  },
+  "homepage": "https://github.com/coldpour/jshtml#readme",
+  "devDependencies": {
+    "jasmine": "^3.4.0",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "html-tags": "^3.1.0",
+    "xmltag": "^1.0.0"
+  }
+}
